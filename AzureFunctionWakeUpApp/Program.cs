@@ -21,8 +21,8 @@
         private static async void PingWebsite(object state)
         {
             string[] urls = new[] {
-                "https://qa-vis-weu-52256-pa-func.azurewebsites.net/",
-                "https://qa-vis-weu-52256-wfm-func.azurewebsites.net/"
+                "1",
+                "2"
                 };
 
             try
